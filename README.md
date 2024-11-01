@@ -16,7 +16,20 @@
   <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  
 </div>
-
+<style>
+  .scroll-text {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: scroll-left 8s linear infinite;
+  }
+  
+  @keyframes scroll-left {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+</style>
+<div class="scroll-text" >This is scrolling text!</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--   <a href="https://github.com/Sudeepa-R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a> -->
