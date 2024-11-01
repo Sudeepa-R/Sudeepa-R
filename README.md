@@ -24,6 +24,12 @@
     </text>
   </svg>
 </div>
+## This is scrolling text!
+
+> *This message is important*
+> **This message is still moving**
+> ***This message keeps scrolling***
+
 
 
 <h3 align="left">Connect with me:</h3>
