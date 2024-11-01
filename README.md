@@ -1,5 +1,5 @@
-
 ![MasterHead](https://raw.githubusercontent.com/Sudeepa-R/Portfolio_Website/refs/heads/main/img/Yellow%20and%20Blue%20Bold%20Marketing%20Agency%20with%20Hexagon%20Frame%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hello 👋 , It's Me Sudeep</h1>
 <h3 align="center">Software Developer | Passionate about Building Scalable Solutions</h3>
 
@@ -16,17 +16,7 @@
   <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  
 </div>
- <animate attributeName="x" from="100%" to="-100%" dur="18s" repeatCount="indefinite" />
-      This is scrolling text!
-<div align="center">
-  <svg width="100%" height="30">
-    <text x="100%" y="20" fill="green" font-size="16" font-family="Arial, sans-serif">
-     
-    </text>
-  </svg>
-</div>
-
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--   <a href="https://github.com/Sudeepa-R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a> -->
