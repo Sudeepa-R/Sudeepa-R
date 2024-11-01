@@ -16,20 +16,15 @@
   <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  
 </div>
+ <animate attributeName="x" from="100%" to="-100%" dur="18s" repeatCount="indefinite" />
+      This is scrolling text!
 <div align="center">
   <svg width="100%" height="30">
     <text x="100%" y="20" fill="green" font-size="16" font-family="Arial, sans-serif">
-      <animate attributeName="x" from="100%" to="-100%" dur="18s" repeatCount="indefinite" />
-      This is scrolling text!
+     
     </text>
   </svg>
 </div>
-## This is scrolling text!
-
-> *This message is important*
-> **This message is still moving**
-> ***This message keeps scrolling***
-
 
 
 <h3 align="left">Connect with me:</h3>
