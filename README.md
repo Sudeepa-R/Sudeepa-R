@@ -1,6 +1,6 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Sudeepa-R/Portfolio_Website/refs/heads/main/img/Yellow%20and%20Blue%20Bold%20Marketing%20Agency%20with%20Hexagon%20Frame%20LinkedIn%20Banner.png)
-<h2 align="center">Hello 👋 , It's Me <span><h2 style="display: inline-flex; color: rgb(74, 211, 211);">Sudeep</h2></span></h2>
+<h2 align="center">Hello 👋 , It's Me <span><h2  color="red" >Sudeep</h2></span></h2>
 <h3 align="center">Software Developer | Passionate about Building Scalable Solutions</h3>
 
 - 🌱 I’m currently learning Node.js
