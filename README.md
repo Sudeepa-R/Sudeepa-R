@@ -8,22 +8,23 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepa-R&theme=dracula" />
     </a>
  <a href="#" alt="Profile stats">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtcry&theme=dracula" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudeepa-R&theme=dracula" />
     </a>
     <a href="#" alt="Productive time">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xtcry&theme=dracula&utcOffset=3" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudeepa-R&theme=dracula&utcOffset=3" />
     </a>
   <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  
 </div>
 <div align="center">
-  <svg width="400" height="30">
+  <svg width="100%" height="30">
     <text x="100%" y="20" fill="green" font-size="16" font-family="Arial, sans-serif">
-      <animate attributeName="x" from="100%" to="-100%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x" from="100%" to="-100%" dur="18s" repeatCount="indefinite" />
       This is scrolling text!
     </text>
   </svg>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
