@@ -7,11 +7,13 @@
 <a href="#" alt="Profile detail">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepa-R&theme=dracula" />
     </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepa-R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <a href="#" alt="Profile stats">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtcry&theme=dracula" />
+    </a>
   <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudeepa-R&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Sudeepa-R&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=0" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeepa-R&theme=chartreuse-dark&hide_title=true&hide_border=true&area=true" height="150" alt="activity-graph graph"  />
+ 
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
