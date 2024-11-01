@@ -1,11 +1,18 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Sudeepa-R/Portfolio_Website/refs/heads/main/img/Yellow%20and%20Blue%20Bold%20Marketing%20Agency%20with%20Hexagon%20Frame%20LinkedIn%20Banner.png)
-<h2 align="center">Hello 👋 , It's Me <span style="color:green;">Sudeep</span></h2>
+<h1 align="center">Hello 👋 , It's Me Sudeep</h1>
 <h3 align="center">Software Developer | Passionate about Building Scalable Solutions</h3>
 
-- 🌱 I’m currently learning Node.js
-
-- 💬 Ask me about **Python, JavaScript, MySQL, Web Development**
+<div align="center">
+<a href="#" alt="Profile detail">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeepa-R&theme=dracula" />
+    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudeepa-R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sudeepa-R&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudeepa-R&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sudeepa-R&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=0" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeepa-R&theme=chartreuse-dark&hide_title=true&hide_border=true&area=true" height="150" alt="activity-graph graph"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
